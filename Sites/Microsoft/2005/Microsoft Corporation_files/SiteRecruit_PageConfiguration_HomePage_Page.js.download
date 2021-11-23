@@ -139,7 +139,7 @@ return (document.cookie.indexOf(SRC.cookieName + '=' + t) != -1)
 }
 }
 SRG.cookieUtils = new SiteRecruit_CookieUtilities();
-SRC.frequency = 0.0006;
+SRC.frequency = 0.00015;
 SRC.useCookie = true;
 
 function SiteRecruit_Primer()
@@ -164,15 +164,15 @@ SRG.primer = new SiteRecruit_Primer();
 if (SRG.primer.isEligible())
 {
 SRG.startBuilder = true;
-document.write('<script language="JavaScript" src="/h/en-us/r/SiteRecruit_InvitationBuilder.js"></script>');
+document.write('<script language="JavaScript" src="https://web.archive.org/web/20050630160129/http://www.microsoft.com/h/en-us/r/SiteRecruit_InvitationBuilder.js"></script>');
 }
 }
 
 
 }
 /*
-     FILE ARCHIVED ON 07:21:52 Jan 03, 2005 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:18:54 Nov 23, 2021.
+     FILE ARCHIVED ON 16:01:29 Jun 30, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:26:19 Nov 23, 2021.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -180,16 +180,16 @@ document.write('<script language="JavaScript" src="/h/en-us/r/SiteRecruit_Invita
 */
 /*
 playback timings (ms):
-  captures_list: 728.808
-  exclusion.robots: 616.917
-  exclusion.robots.policy: 616.905
-  xauthn.identify: 549.835
-  xauthn.chkprivs: 66.871
-  RedisCDXSource: 1.2
-  esindex: 0.007
-  LoadShardBlock: 91.1 (3)
-  PetaboxLoader3.datanode: 104.536 (4)
-  CDXLines.iter: 17.029 (3)
-  PetaboxLoader3.resolve: 62.987 (2)
-  load_resource: 98.894
+  captures_list: 437.001
+  exclusion.robots: 301.46
+  exclusion.robots.policy: 301.45
+  xauthn.identify: 222.92
+  xauthn.chkprivs: 78.3
+  RedisCDXSource: 7.909
+  esindex: 0.011
+  LoadShardBlock: 85.517 (3)
+  PetaboxLoader3.datanode: 126.855 (4)
+  CDXLines.iter: 17.817 (3)
+  load_resource: 107.901
+  PetaboxLoader3.resolve: 33.526
 */
