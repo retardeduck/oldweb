@@ -15,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
@@ -27,14 +27,34 @@
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1637689171544" expanded="false" signature="961:981" ph="..." />
-                <marker date="1637689171544" expanded="false" signature="1023:1043" ph="..." />
-                <marker date="1637689171544" expanded="false" signature="1098:1118" ph="..." />
-                <marker date="1637689171544" expanded="false" signature="1160:1180" ph="..." />
-                <marker date="1637689171544" expanded="false" signature="1235:1255" ph="..." />
-                <marker date="1637689171544" expanded="false" signature="1294:1314" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="846:866" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="867:941" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="979:999" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1000:1022" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="1041:1061" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1062:1078" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="1116:1136" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1137:1159" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="1178:1198" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1199:1215" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="1253:1273" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1274:1293" ph="..." />
+                <marker date="1637691395824" expanded="false" signature="1312:1332" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1333:1349" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1385:1420" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1395:1414" ph="..." />
+                <marker date="1637691395824" expanded="true" signature="1400:1408" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sites/Microsoft/2005/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="34" column="4713" lean-forward="false" selection-start-line="34" selection-start-column="4713" selection-end-line="34" selection-end-column="4713" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +73,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Sites/Microsoft/2005/index.html" />
       </list>
     </option>
   </component>
@@ -94,6 +115,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="OldWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OldWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OldWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Microsoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OldWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OldWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Microsoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2005" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,18 +251,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637688557675</updated>
-      <workItem from="1637688559989" duration="805000" />
+      <workItem from="1637688559989" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="805000" />
+    <option name="totallyTimeSpent" value="1476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="868" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="868" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -262,14 +322,32 @@
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1637689171544" expanded="false" signature="961:981" ph="..." />
-            <marker date="1637689171544" expanded="false" signature="1023:1043" ph="..." />
-            <marker date="1637689171544" expanded="false" signature="1098:1118" ph="..." />
-            <marker date="1637689171544" expanded="false" signature="1160:1180" ph="..." />
-            <marker date="1637689171544" expanded="false" signature="1235:1255" ph="..." />
-            <marker date="1637689171544" expanded="false" signature="1294:1314" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="846:866" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="867:941" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="979:999" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1000:1022" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="1041:1061" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1062:1078" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="1116:1136" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1137:1159" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="1178:1198" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1199:1215" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="1253:1273" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1274:1293" ph="..." />
+            <marker date="1637691395824" expanded="false" signature="1312:1332" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1333:1349" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1385:1420" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1395:1414" ph="..." />
+            <marker date="1637691395824" expanded="true" signature="1400:1408" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sites/Microsoft/2005/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="34" column="4713" lean-forward="false" selection-start-line="34" selection-start-column="4713" selection-end-line="34" selection-end-column="4713" />
+          <folding />
         </state>
       </provider>
     </entry>
